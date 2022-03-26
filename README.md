@@ -15,19 +15,16 @@ and learning programming through small projects.
 </div>
 </p>
 
-```python
-class DangeloArrivillaga():
-    
-  def __init__(self):
-    self.name = "Dangelo Arrivillaga";
-    self.username = "Dangelo-JAN";
-    self.location = "Caracas, Venezuela";
-  
-  def __str__(self):
-    return self.name
+```javascript
+class DangeloArrivillaga {
+  constructor(name, lastName, age) {
+    this.name = 'Dangelo';
+    this.lastName = 'Arrivillaga';
+    this.age = '37';
+  }
+}
 
-if __name__ == '__main__':
-    me = AbhigyanTrips()
+export default DangeloArrivillaga;
 ```
 
 <div align="center">
