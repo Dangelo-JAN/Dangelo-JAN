@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Dangelo Arrivilaga's Jobs</b>
+  <b>Dangelo Arrivilaga Full-Stack Web Developer in Frontend with Reac.js and Ruby on Rails on the Backend, READY TO HIRE!!!...</b>
 </h1>
 
 Heya! I'm Dangelo Arrivillaga, a student in Microverse and currently living in Caracas, Venezuela. I'm preparing for to be a Web Developer, 
